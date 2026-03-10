@@ -8,17 +8,27 @@ This project uses Generative AI with Google Gemini to generate financial insight
 The main aim of this project is to make financial planning easier for people like students, professionals, and individuals who want to manage their finances properly.
 
 * Features:
+  
 -Personal financial analysis
+
 -Budget and expense tracking
+
 -Savings and debt evaluation
+
 -Goal-based financial planning
+
 -AI-generated financial suggestions
 
 *Technologies Used:
+
 -Python
+
 -Flask (Web Framework)
+
 -Streamlit
+
 -Generative AI
+
 -Google Gemini API
 
 *Team Members
