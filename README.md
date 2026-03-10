@@ -22,6 +22,7 @@ The main aim of this project is to make financial planning easier for people lik
 -Google Gemini API
 
 *Team Members
+
 Radhika Vhanmane – Team Lead
 
 Pranjali Patil – Member
