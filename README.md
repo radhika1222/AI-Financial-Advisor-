@@ -23,8 +23,11 @@ The main aim of this project is to make financial planning easier for people lik
 
 *Team Members
 Radhika Vhanmane – Team Lead
+
 Pranjali Patil – Member
+
 Ruturaj Pawar – Member
+
 Sandesh Wandre – Member
 
 Conclusion
